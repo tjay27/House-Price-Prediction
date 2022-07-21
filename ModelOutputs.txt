@@ -1,0 +1,11 @@
+Model Outputs
+
+1. Decision Tree Regressor
+    Mean:  4.2055308832832115
+    Deviation:  0.6419308636088215
+2. Linear Regression
+    Mean:  5.032500444089652
+    Deviation:  1.0588867414721408
+3. 
+    Mean:  3.2783757925250248
+    Deviation:  0.685325928645423
